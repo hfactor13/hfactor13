@@ -6,9 +6,9 @@ ETL pipelines · SQL data modeling · GCP/BigQuery · Scientific Python
 
 ---
 
-I build data infrastructure for complex engineering environments — pipelines, schemas, and analytics workflows that make large technical datasets usable. My background spans mechanical engineering and data engineering, which means I can work across the full stack from domain problem to data system.
+I build data infrastructure for complex engineering environments — pipelines, schemas, and analytics workflows that make large technical datasets usable. My background spans mechanical engineering and scientific computing.
 
-Currently at **KCI Engineering Consultants**, building Python-based ETL post-processing pipelines for simulation data. Previously at **Argonne National Laboratory**, where I designed SQL database schema and data transformation workflows for component tracking across synchrotron beamlines.
+Currently at **KCI Engineering Consultants**, building Python-based ETL post-processing pipelines for simulation data. Previously at **Argonne National Laboratory**, where I designed SQL database schemas and thermal-hydraulic simulation workflows.
 
 ---
 
@@ -16,6 +16,7 @@ Currently at **KCI Engineering Consultants**, building Python-based ETL post-pro
 
 | Project | Contribution |
 |---|---|
+| [**c4dynamics/c4dynamics**](https://github.com/c4dynamics/c4dynamics) | Reviewer and contributor — [README updates](https://github.com/c4dynamics/c4dynamics/pull/135) and [documentation fixes](https://github.com/c4dynamics/c4dynamics/pull/136) for pyOpenSci package submission |
 | [**scipy/scipy**](https://github.com/scipy/scipy/pull/16633) | Updated benchmarking docs to use the `dev.py` interface — merged into `scipy:main` |
 | **pandas** | Code and documentation contributions |
 | **pyOpenSci** | Documentation and community contributions |
