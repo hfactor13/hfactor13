@@ -31,7 +31,7 @@ Queried and analyzed large-scale NOAA climate datasets using Google BigQuery on 
 
 **[MIMIC Clinical Data Pipeline](https://github.com/hfactor13/MIMIC-Clinical-Demo-Project)**
 End-to-end data engineering pipeline on the MIMIC clinical dataset — ingestion, transformation, classification, and Power BI dashboards.
-`Python` `SQL` `Power BI` `Pandas`
+`Python` `SQL` `Pandas` `DuckDB`
 
 **[Chess Game Analytics](https://github.com/hfactor13/MyChessGames)**
 Data pipeline using the Lichess public API to collect, transform, and store game records. Visualizes performance trends and patterns over time.
@@ -49,7 +49,7 @@ Chaotic dynamical system simulation using Runge-Kutta numerical integration meth
 Languages   Python · SQL · Fortran · Bash
 Data        Pandas · NumPy · SciPy · Matplotlib
 Cloud       GCP · BigQuery
-Tools       Git · GitHub · Power BI · Excel · LaTeX
+Tools       Git · GitHub · LaTeX
 Domain      Thermal-hydraulic systems · Structural simulation · Synchrotron beamlines
 ```
 
