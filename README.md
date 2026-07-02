@@ -8,7 +8,7 @@ ETL pipelines · SQL data modeling · GCP/BigQuery · Scientific Python
 
 I build data infrastructure for complex engineering environments — pipelines, schemas, and analytics workflows that make large technical datasets usable. My background spans mechanical engineering and scientific computing.
 
-Currently at **KCI Engineering Consultants**, building Python-based ETL post-processing pipelines for simulation data. Previously at **Argonne National Laboratory**, where I designed SQL database schemas and thermal-hydraulic simulation workflows.
+Currently at **KCI Engineering Consultants**, building Python-based ETL post-processing pipelines for thermal-hydraulic simulation workflows. Previously at **Argonne National Laboratory**, I designed SQL database schemas for the engineering component inventory website.
 
 ---
 
